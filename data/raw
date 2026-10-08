@@ -1,0 +1,11 @@
+# Raw Data
+
+The raw American Express Default Prediction dataset is not included in this repository.
+
+The dataset can be obtained from the official Kaggle competition:
+
+https://www.kaggle.com/competitions/amex-default-prediction
+
+Raw files used during development included the labelled training data and training labels.
+
+The raw dataset was processed locally/within Google Colab and was not uploaded to this public repository.
