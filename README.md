@@ -1,2 +1,4 @@
-# travel-insurance-price-optimization
-CS5998 Capstone Project – Machine Learning-Based Price Optimization for Travel Insurance
+# Machine Learning-Based Credit Risk Assessment
+with Explainable AI
+CS5998 Capstone Project – Machine Learning-Based Credit Risk Assessment
+with Explainable AI
