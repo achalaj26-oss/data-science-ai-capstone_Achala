@@ -41,11 +41,12 @@ The data processing pipeline included:
 7. Selection of 30 modelling features
 
 The processed customer-level datasets are retained in the project's working environment but are not included in this public repository.
-##Independent Project Development(I used the official Kaggle competition information to understand the dataset and problem context. However, I did not use a competitor Kaggle notebook as the source of my implementation.)
+
+## Independent Project Development(I used the official Kaggle competition information to understand the dataset and problem context. However, I did not use a competitor Kaggle notebook as the source of my implementation.)
 
 The Kaggle competition information was used as the dataset and problem-context source. No competitor Kaggle notebook was used as the implementation source for this project. The preprocessing, customer-level aggregation, feature screening, feature selection, Logistic Regression baseline, XGBoost model, evaluation and explainability workflow were developed as part of this MSc capstone project.
 
-##Independent Development Evidence
+## Independent Development Evidence
 1. The project was developed incrementally in Google Colab notebooks.
 2. The dataset was sampled to 100,000 customers using stratified sampling with `random_state=42`.
 3. Monthly observations were aggregated into customer-level mean and last-value features.
