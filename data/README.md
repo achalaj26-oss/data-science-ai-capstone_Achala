@@ -66,7 +66,7 @@ The Kaggle competition information was used as the dataset and problem-context s
 | **Main question** | Predict the probability that a customer will **default in the future** based on their monthly customer profile. | Can **explainable machine learning** accurately predict credit-card default risk and provide interpretable insights into individual predictions? |
 | **Main objective** | Build a highly effective predictive model and achieve a strong competition score. | Develop an **explainable ML framework** that balances prediction performance with interpretability. |
 | **Primary focus** | **Prediction performance / ranking** | **Prediction + Explainability** |
-| **Dataset** | American Express Default Prediction competition dataset. | A **100,000-customer stratified sample** from the same dataset. |
+| **Dataset** | American Express Default Prediction competition dataset.458,913 unique customers, 5.5 million+ monthly customer observations | A **100,000-customer stratified sample** from the same dataset. |
 | **Feature engineering** | Participants could use different techniques to maximise predictive performance. | Customer-level **mean and last-value aggregation** was used to represent historical and recent behaviour. |
 | **Feature selection** | Participants could select or create features according to their modelling strategy. | Correlation-based feature screening and redundancy reduction were used to select **30 features**. |
 | **Baseline model** | No specific baseline model was required by the competition. | **Logistic Regression** was used as the baseline model. |
