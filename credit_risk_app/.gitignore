@@ -1,10 +1,6 @@
-# Local validation data
-data/*.csv
-data/*.parquet
-data/*.xlsx
-
-# Local model artifacts
-models/*.pkl
-models/*.json
-models/*.joblib
+# Ignore Mac system files
 .DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
