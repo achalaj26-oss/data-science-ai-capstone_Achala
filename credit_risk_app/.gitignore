@@ -1,0 +1,10 @@
+# Local validation data
+data/*.csv
+data/*.parquet
+data/*.xlsx
+
+# Local model artifacts
+models/*.pkl
+models/*.json
+models/*.joblib
+.DS_Store
