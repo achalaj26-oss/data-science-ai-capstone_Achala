@@ -59,7 +59,7 @@ The Kaggle competition information was used as the dataset and problem-context s
 10. SHAP explainability is being developed as a separate project component.
 11. Intermediate datasets, analysis tables, figures, model files, and GitHub commits provide an audit trail.
 
-## Kaggle Competition vs. MSc Capstone Project
+## Kaggle Competition vs. Master Capstone Project
 
 | **Aspect** | **American Express Kaggle Competition** | **My MSc Capstone Project** |
 |---|---|---|
